@@ -1,0 +1,42 @@
+/*
+ * Mums in Tech | Week 03
+ *
+ * I have put some basic CSS in place to give everyone a
+ * nice starting point. Feel free to change it however.
+ *
+ * You challenge, if you choose to accept it, is to
+ * put your own design/ideas into the provided HTML with
+ * minimal changes to the HTML itself.
+ */
+
+body {
+  /* I prefer sans-serif (without curls) so I'm changing it haha */
+  font-family: Helvetica, sans-serif;
+}
+
+/*
+ * Center content by setting a width but giving the left and right
+ * margin a value of auto
+ */
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.content ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/*
+ * Resources that may help you and properties worth checking out...
+ *
+ * https://css-tricks.com/almanac/properties/b/box-sizing
+ * https://developer.mozilla.org/en/docs/Web/CSS/border-radius
+ * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+ * http://flexboxfroggy.com/
+ *
+ * Remember there is no right or wrong. The aim is to expose yourself to a wider range
+ * of CSS properties.
+ */
