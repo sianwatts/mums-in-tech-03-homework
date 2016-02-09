@@ -11,7 +11,22 @@
 
 body {
   /* I prefer sans-serif (without curls) so I'm changing it haha */
-  font-family: Helvetica, sans-serif;
+  font-family: Times, sans-serif;
+  background-color: #effdcc;
+  line-height: 1.3;
+}
+h1 { 
+	color: white;
+	background-color: #31678c;
+}
+h2 {
+	color: white;
+	background-color: #5c627a;
+}
+
+h4 {
+	color: white;
+	background-color: #277291;
 }
 
 /*
@@ -25,7 +40,7 @@ body {
 
 .content ul {
   margin: 0;
-  padding: 0;
+  padding: 20;
   list-style-type: none;
 }
 
